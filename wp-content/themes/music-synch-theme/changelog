@@ -1,0 +1,31 @@
+## Version 2.2.2
+- Fix: Burger Icon integriert, in manchen fällen wurde das nicht angezeigt.
+
+## Version 2.2.1
+- Fix: FontAwesome wurde nicht geladen, nun ist die aktuelle FA Version ins Theme eingebunden
+
+## Version 2.2.0
+- feat: Die Daten für das WP-Stars Widget werden jetzt über eine JSON Schnittstelle von wp-stars.com geladen
+
+## Version 2.1.1
+- fix: Das WP-Stars Logo liegt jetzt img /img Ordner vom Understrap Childtheme und nicht mehr extern auf wp-stars.com
+
+## Version 2.1.0
+- Feat: defer bei script loading
+- Feat: WP-Stars Kontaktbox Widget für wp-admin Dashboard
+
+## Version 2.0.3
+- Bugfix: Fehler in der Slide to hash Funktion (main.js) beseitigt
+
+## Version 2.0.2
+- Bugfix: text-domain
+
+## Version 2.0.1
+- Edit with WPBakery Link im Frontend entfernt
+- Text Domain Function
+- Header Default und Top Bar
+- Template für Page ohne Titel
+
+## Version 2.0.0
+- Umstrukturierung der scss Files, sodass Understrap variabeln benutzt und überschrieben werden können
+- Accessibility Jump-Links

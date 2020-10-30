@@ -1,0 +1,8 @@
+{
+    "require": {
+        "jwilsson/spotify-web-api-php": "^3.6",
+        "google/apiclient": "2.0",
+        "stormiix/php-eyed3": "dev-master",
+        "james-heinrich/getid3": "^1.9"
+    }
+}
